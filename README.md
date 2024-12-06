@@ -37,46 +37,8 @@ A simple and fun **Candy Crush-inspired game** created using HTML, CSS, and Java
 └── README.md         # Documentation for the game
 ```
 
-Here's the complete README.md code for your project:
-
-# 🍬 Candy Crush Game
-
-A simple and fun **Candy Crush-inspired game** created using HTML, CSS, and JavaScript. Drag and drop candies to match rows or columns of three or more candies, score points, and enjoy the game mechanics!
-
 ---
 
-## 🛠 Features
-
-- **Drag-and-Drop Mechanics**: Easily drag candies to swap their positions.
-- **Matching Logic**:
-  - Matches of 3 or more candies in rows or columns will disappear.
-  - Score points based on the size of the match.
-- **Dynamic Refilling**: Candies automatically fall into empty spaces, and new candies appear at the top.
-- **Score Tracking**: A live score display updates as you make matches.
-- **Responsive Grid**: The grid is visually appealing and adapts to different screen sizes.
-
----
-
-## 🚀 How to Play
-
-1. Open the game in your browser.
-2. Drag and drop candies to match 3 or more in a row or column.
-3. Matches will disappear, and candies will fall into the empty spaces.
-4. Keep making matches to increase your score.
-5. Have fun!
-
----
-
-## 📂 File Structure
-
-```plaintext
-.
-├── index.html        # Main HTML file for the game layout
-├── style.css         # Styling for the game board and UI
-├── candy.js          # JavaScript logic for the game mechanics
-├── images/           # Folder containing candy images
-└── README.md         # Documentation for the game
-```
 ## 🖼 Game Preview
 
 ### Grid Layout:
@@ -94,14 +56,14 @@ A real-time scoreboard tracks the points you've earned.
 1)   Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/candy-crush-game.git
+git clone https://github.com/MuzamilSheikh09/Candy-Crush.git
 
 ```
 
 2) Navigate to the project folder:
 
    ```
-    cd candy-crush-game
+    cd Candy-Crush
 
     ```
 
